@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+background: rgb(37, 37, 37);
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(3, 196, 255);
+    font-family: Impact;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(3, 196, 255);
+    font-family: Impact;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    font-family: monospace;
+}
+
+nav {
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    height: 250px;
+    border: 2px solid black;
+    bottom: 10px;
+}
+
+nav a{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 20px;
+    text-decoration: none;
+    border: 2px solid rgb(3, 196, 255);
+    border-radius: 16px;
+    text-align: center;
+}
+
+footer img{
+    border: 2px solid black;
+    height: 50px;
+}
+
+footer a{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 20px;
+    text-decoration: none;
+    border: 2px solid rgb(3, 196, 255);
+    border-radius: 16px;
+    text-align: center;
+}
+
+footer p{
+    font-size: 17px;
+    font-family: unset;
+}
+
+h3 {
+    font-size: 45px;
+    text-align: center;
+    color: rgb(3, 196, 255);
+    font-family: Impact;
+}
